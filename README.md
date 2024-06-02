@@ -79,7 +79,8 @@ Through a discussion with a technician from Asanko Gold Mine, I learned about th
   
 ![Circuit Design in Proteus](images/simulation.png)
 
-3. ***Programming the Microcontroller:*** The ATmega328P microcontroller from the Proteus software environment was programmed using the [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/9207690465436-IDE-Support) to process sensor data and trigger alerts. The code, provided in the repository, handles both the Proteus simulation and actual hardware implementation.
+3. ***Programming the Microcontroller:*** The ATmega328P microcontroller from the Proteus software environment was programmed using the [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/9207690465436-IDE-Support) to process sensor data and trigger alerts. The repository contains all the resources you need to program your ATmega328 microcontroller. It includes two Arduino code files: "Arduino code - Proteus Simulation.ino" for simulating the program in Proteus software and "Arduino Code - Physical Implementation.ino" for running the program on the actual hardware. Additionally, a file named ".pdsprj" is provided for simulating the circuit in Proteus, allowing you to test your program in a virtual environment before implementing it on the physical ATmega328.
+
 
 After setting up the circuit design and programming the microcontroller, the Proteus simulation successfully replicated the designed functionality. The system accurately calculated and displayed soil resistance on the LCD [top right corner] based on simulated temperature and moisture sensor values. Additionally, it demonstrated remote data transmission capabilities, as evidenced by sensor data displayed in the console [middle left corner]. See the image below for a visualization of these outputs.
 
