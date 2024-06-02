@@ -1,4 +1,3 @@
-
 # Remote Soil Resitance Monitoring and Alerting System using GSM
 ![Main Image](images/main-image.jpg)
 
@@ -39,6 +38,7 @@ Through a discussion with a technician from Asanko Gold Mine, I learned about th
 ### Software Apps and Online Services
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Proteus Software](https://www.edgeimpulse.com/). Before building the real circuit, Proteus software allowed me to simulate the soil resistance meter's behavior. This virtual breadboard environment let me test circuit functionality and refine the design using a model for soil resistance under various conditions. Essentially, Proteus helped ensure the circuit would work properly with real soil before any physical components were needed.
+- Fusion 360
 
 ## Methodology
 ### Remote Soil Resistance Monitoring and Alerting System
