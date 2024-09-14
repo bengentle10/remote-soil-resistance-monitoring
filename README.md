@@ -5,7 +5,7 @@ The Remote Soil Resistance Monitoring and Alerting System is an experimental 'mi
 
 
 ## Acknowledgements
-Through a discussion with a technician from Asanko Gold Mine, I learned about the challenges of manual soil resistance checks using testers like the Fluke 1625. These checks are vital for safety in vast mines, but they're time-consuming and laborious. Inspired by a Coursera course on [Internet of Things (IoT): Sensing and Actuation From Devices](https://www.coursera.org/learn/internet-of-things-sensing-actuation) taught by Professor Harinath Garudadri at the University of California San Diego, I designed a miniaturized soil resistance meter to offer a solution.
+Through a discussion with a technician from AngloGold Ashanti Mines, I learned about the challenges of manual soil resistance checks using testers like the Fluke 1625. These checks are vital for safety in vast mines, but they're time-consuming and laborious. Inspired by a Coursera course on [Internet of Things (IoT): Sensing and Actuation From Devices](https://www.coursera.org/learn/internet-of-things-sensing-actuation) taught by Professor Harinath Garudadri at the University of California San Diego, I designed a miniaturized soil resistance meter to offer a solution.
 
 
 ## Authors
