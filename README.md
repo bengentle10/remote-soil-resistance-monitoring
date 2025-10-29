@@ -130,7 +130,3 @@ The initial design of the remote soil resistivity monitoring system showed promi
 ![GSM SMS](images/GSM%20SMS.jpg)
 
 While the initial design of the remote soil resistivity monitoring system successfully utilized common components and functioned well in simulations, future advancements can broaden its impact beyond electrical applications.  This system has the potential to empower not only electrical companies and engineers with real-time data and automated alerts for improved soil monitoring in earthing applications, but also agriculturists. By understanding soil resistivity, farmers can gain valuable insights into soil health -  higher resistivity often indicates lower moisture content. This information can be used to optimize irrigation practices, potentially saving water and improving crop yields. Additionally, exploring cost-effective data transmission alternatives like Wi-Fi or LoRaWAN could make the system more affordable for wider adoption.  Most importantly, this design offers a chance to revolutionize soil resistivity monitoring by replacing manual methods with a time-saving and cost-effective solution, making it accessible for various sectors, even households
-
-A brief demonstration of the project is shown below:
-
-![Demonstration](images/demonstration.gif)
